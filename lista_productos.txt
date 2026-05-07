@@ -1,0 +1,4 @@
+Gaseosa,2500,150
+Mortadela,300,300
+Fideos,1500,200
+uva,200,2500

@@ -1,4 +1,7 @@
 Gaseosa,2500,150
 Mortadela,300,300
 Fideos,1500,200
-uva,200,2500
+frutilla,50,1500
+cerveza,2500,250
+pan,300,1500
+jugo,20,100
